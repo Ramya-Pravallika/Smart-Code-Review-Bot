@@ -1,0 +1,6 @@
+Flask
+requests
+openai
+PyGithub
+pylint
+eslint
